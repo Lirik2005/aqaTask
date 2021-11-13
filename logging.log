@@ -1,0 +1,8 @@
+[ ERROR] - Factorial:43 - Some Error
+java.lang.IllegalArgumentException
+	at Factorial.trow(Factorial.java:43)
+	at Factorial.main(Factorial.java:37)
+[ ERROR] - Factorial:43 - Some Error
+java.lang.IllegalArgumentException
+	at Factorial.trow(Factorial.java:43)
+	at Factorial.main(Factorial.java:37)
